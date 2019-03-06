@@ -1,3 +1,7 @@
+# lodash学习
+学习每个函数方法的实现; 为每个方法,添加注释
+学习它的组织方式;
+
 # lodash
 
 [Site](https://lodash.com/) |
